@@ -1,0 +1,44 @@
+body {
+}
+
+main {
+	display: block;
+	width: 75%;
+	margin: 0 auto;
+	background-color: #DDD;
+}
+
+code {
+	background-color: white;
+	display: block;
+}
+
+.blogPre {
+	display: block;
+	min-height: 200px;
+	border: 2px solid black;
+	width: 90%;
+	background-color: #CCC;
+	margin: 0 auto 10px;
+	box-sizing: border-box;
+	text-decoration: none;
+	color: black;
+}
+
+.blogPre .name {
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	padding-left: 10px;
+	font-size: 52px;
+	font-weight: bold;
+	background-color: #D7C5C1;
+	border-bottom: 2px solid black;
+}
+
+.blogPre .description {
+	display: block;
+	width: 70%;
+	margin: 0 auto;
+	font-size: 24px;
+}

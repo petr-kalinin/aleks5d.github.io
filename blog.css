@@ -1,0 +1,17 @@
+.blogHeader {
+	display: block;
+	width: 75%;
+	margin: 0 auto 10px;
+	background: #D7C5C1;
+	font-size: 64px;
+	font-weight: bold;
+	box-sizing: border-box;
+	padding-left: 10px;
+}
+
+.blogMain {
+	display: block;
+	width: 75%;
+	margin: 0 auto;
+	background-color: #DDD;
+}
